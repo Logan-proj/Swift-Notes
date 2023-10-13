@@ -1,6 +1,6 @@
 import UIKit
 
-// Checkpoint 2 : create an array of strings, then write some code that prints the number of items in the array and also the number of unique items in the array.
+// Checkpoint 2: create an array of strings, then write some code that prints the number of items in the array and also the number of unique items in the array.
 
 // create an array of strings
 let arrayOfStrings = ["apple", "banana", "orange", "apple", "grape", "banana", "kiwi", "mango", "kiwi", "pineapple"]
